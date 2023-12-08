@@ -1,5 +1,5 @@
 
-<p align="center">I i started be a programer recently, and i like it ❤️</p>&nbsp;
+<p align="center">I i started be a programer recently, and i hate it ❤️</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kauahenz&theme=radical&mode=weekly" />
