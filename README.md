@@ -28,7 +28,7 @@
 
 #### Workstation Tools:
 
-![VSCode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
+![VisualStudioCode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
