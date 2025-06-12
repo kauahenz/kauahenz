@@ -1,5 +1,5 @@
 
-<p align="center">o</p>&nbsp;
+<p align="center"></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kauahenz&theme=radical&mode=weekly" />
@@ -28,7 +28,7 @@
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
+![VsCode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
